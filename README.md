@@ -26,15 +26,18 @@ Hệ thống quản lý cửa hàng cho Nhà sách Cô Nữ
     - Track stock quantity | Theo dõi tồn kho
     - Update product price history | Quản lý lịch sử giá bán
     - Alert low inventory | Cảnh báo hàng sắp hết
+  ---
   3.2 Sales Management | Quản Lý Bán Hàng
     - Create and manage invoices | Lập và quản lý hóa đơn
     - Automatic total calculation | Tự động tính tiền
     - Handle product returns | Xử lý trả hàng
     - Update stock automatically | Tự động cập nhật tồn kho
+  ---
   3.3 Customer & Supplier Management | Quản Lý Khách Hàng & Nhà Cung Cấp
     - Store customer information | Lưu trữ thông tin khách hàng
     - Track supplier data | Quản lý nhà cung cấp
     - Support searching and updating information | Hỗ trợ tìm kiếm và cập nhật dữ liệu
+  ---
   3.4 Reporting | Báo Cáo Thống Kê
     - Revenue reports | Báo cáo doanh thu
     - Best-selling products | Thống kê sản phẩm bán chạy
